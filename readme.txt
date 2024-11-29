@@ -60,3 +60,4 @@ Parameters explanation:
 --cluster_name: cluster version name. Default if v1. Can change to other names if want to replicate clustering.
 
 *NOTE* Do not change quotes in the --raw* parameter. use " for string and add '' for the whole list.
+The /DMTM and /TCLA are from https://github.com/haozhangWCM/dynaPhenoM. 
